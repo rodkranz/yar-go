@@ -1,6 +1,12 @@
 Example RPC
 -- 
 
+* Pre run
+    
+    ```
+    dep ensure
+    ```
+    
 
 * Run Server
 
